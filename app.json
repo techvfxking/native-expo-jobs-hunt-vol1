@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "native-expo-jobs-hunt-vol1",
+    "slug": "native-expo-jobs-hunt-vol1"
+  }
+}
